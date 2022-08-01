@@ -19,18 +19,18 @@ global.autoread = false // auto read pesan / message
 
 // Other
 global.botname = "Jiixxy-Mdོ" //namabot kalian
-global.ownername= "Jiixxy⁶⁶⁶" //nama kalian
+global.ownername= "AdminHDI⁶⁶⁶" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.youtube = "https://youtube.com/" //bebas asal jan hapus
+global.github = "https://instagram.com/anjasnovixd" //bebas
+global.email = "ffanjasgz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285763816560" // nomor wa kalian
-global.ownernomerr = "+6285763816560" //nmr wa kalian
+global.ownernomer = "6285876531805" // nomor wa kalian
+global.ownernomerr = "+6285876531805" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285763816560","6285763816560","6285763816560"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285876531805","6285876531805","6285876531805"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© JiixxyMen' //sticker wm ubah
 global.author = 'ᥫ᭡' //sticker wm ganti nama kalian
 global.sessionName = 'session'
